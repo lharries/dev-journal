@@ -3,7 +3,7 @@
 ## How to
 run `bash scripts/editsavelog.sh` or setup a global alias to just type `j`
 
-this will create (if it doesn't already exist) a journal entry named by todays date
+this will create a journal entry named by todays date (if it doesn't already exist)
 
 it will then open vim for you to edit it in markdown
 
