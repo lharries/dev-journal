@@ -3,8 +3,10 @@
 ## How to
 run `bash scripts/editsavelog.sh` or setup a global alias to just type `j`
 
-this will create (if it doesn't already exist) a file in logs with the name of todays date
+this will create (if it doesn't already exist) a journal entry named by todays date
+
 it will then open vim for you to edit it in markdown
+
 on saving it will commit the changes and push to github
 
 ## Setup 
