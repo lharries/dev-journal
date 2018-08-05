@@ -1,4 +1,5 @@
 #!/bin/bash
+# adapted from https://github.com/samuell/mdnote
 
 journalfile=../logs/$(date +%Y-%m-%d-%u.md);
 
